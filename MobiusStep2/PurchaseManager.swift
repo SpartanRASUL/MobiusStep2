@@ -18,7 +18,7 @@ final class PurchaseManager {
     }
     
     init() {
-        currentMoney = 200
+        currentMoney = 300
     }
     
     func addFunds(_ amount: Int) {

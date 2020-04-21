@@ -37,7 +37,7 @@
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="cud-od-lnG">
                                 <rect key="frame" x="16" y="248" width="382" height="30"/>
-                                <state key="normal" title="Buy in-app item"/>
+                                <state key="normal" title="Buy in-app item (200 coins)"/>
                                 <connections>
                                     <action selector="buyInAppItemPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="uxc-bP-wpK"/>
                                 </connections>

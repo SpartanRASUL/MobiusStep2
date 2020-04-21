@@ -7,8 +7,8 @@
 //
 
 #import <UIKit/UIKit.h>
-#import <CydiaSubstrate/CydiaSubstrate.h>
 #import "Injector.h"
+#import <CydiaSubstrate/CydiaSubstrate.h>
 
 @implementation Injector
 
